@@ -4,34 +4,27 @@ StarFire will be a multiplayer space dogfighting game. A number of different wea
 
 ![Image](screens/cap.png)
 
-### Markdown
+### Current Work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Currently we are working on the Single Player prototype. It will have these basic features:
 
-```markdown
-Syntax highlighted code block
+-Moddable Ship/Equipment/Goods (through XML)
+-Target list for the system
+-Target Assist
+-Ship Inventory where you can unequip/equip equipment and put to cargo bay. You can then sell it or buy upgrades at the station.
+-Station Interaction. You will be able to contact different stations and buy items from there. Stations have different prices so you can trade items from one to the other to make a profit.
+-Pirates. Enemy ships will appear to threaten you and will give chase.
 
-# Header 1
-## Header 2
-### Header 3
+![Image](screens/Capture3.png)
 
-- Bulleted
-- List
+### News
 
-1. Numbered
-2. List
+12-1-19:
+Drag&Drop from Ship equipment slot to cargo and back again works. Albeit buggy.
+You can buy new items at Station and equip them.
 
-**Bold** and _Italic_ and `Code` text
+*Current Goals for the next few days are: 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChrisAshtear/starfire/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-Bugfixes
+-Upgrading our UIdisplay script so that it can be attached to multiple screens while changing no code, only inspector values. Its currently used to display infocard data when you hover over an item in the equipment slot.
+-Cargo drops for loot when you destroy an enemy.
