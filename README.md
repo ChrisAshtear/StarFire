@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to StarFire
 
-You can use the [editor on GitHub](https://github.com/ChrisAshtear/starfire/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+StarFire will be a multiplayer space dogfighting game. A number of different weapons will be available, so you can customize your ship in fights to fit your particular style.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](screens/cap.png)
 
 ### Markdown
 
