@@ -15,7 +15,7 @@ Currently we are working on the Single Player prototype. It will have these basi
 -Station Interaction. You will be able to contact different stations and buy items from there. Stations have different prices so you can trade items from one to the other to make a profit.
 -Pirates. Enemy ships will appear to threaten you and will give chase.
 
-![Image](screens/Capture3.png)
+![Image](screens/Capture3.PNG)
 
 ### News
 
